@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "2022-10-24_20-36-00")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_RP2040/KiCAD/2022-10-24_20-36-00/2022-10-24_20-36-00.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q32JVSSIQ")(type "KiCad")(uri "${KIPRJMOD}/libraries/W25Q32JVSSIQ/W25Q32JVSSIQ.kicad_sym")(options "")(descr ""))
+)

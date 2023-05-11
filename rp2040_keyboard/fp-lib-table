@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "logo_silk")(type "KiCad")(uri "${KICAD_DOC_CUSTOM_LIB}/logo_silk.pretty")(options "")(descr ""))
+)
